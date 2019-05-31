@@ -1,0 +1,7 @@
+/*.iml
+/WebRoot/WEB-INF/classes/cn/itcast/estore/dao/*.class
+/.settings
+/.myeclipse
+/*.project
+/*.mymetadata
+/*.classpath
